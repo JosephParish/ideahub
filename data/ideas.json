@@ -1,5 +1,12 @@
 [
     {
+        "title": "Password Security Checker",
+        "description": "Checks whether a password given is long enough, has no consecutive patterns i.e. 2020johnsimth2020, has special characters, isnt the username and isnt a common one.",
+        "level": "basic",
+        "tags": "security"
+    
+    },
+    {
         "title": "File Protection System",
         "description": "This is a small File Protection System Made using only Java.",
         "level": "intermediate",
